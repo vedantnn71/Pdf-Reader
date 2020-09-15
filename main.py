@@ -1,5 +1,4 @@
-summaryOfThisProduct =
-{
+summaryOfThisProduct = {
     'product name': 'Pdf reader',
     'type': 'software',
     'cost': 0,
